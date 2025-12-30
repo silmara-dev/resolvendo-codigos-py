@@ -1,7 +1,5 @@
 # Vamos receber dois dados diferentes do usuário e concatena-los em uma única string?!
 
-# Vamos receber dois dados diferentes do usuário e concatena-los em uma única string?!
-
 dado1 = input ("Digite a primeira informação:")
 dado2 = input ("Digite a primeira informação:")
 
