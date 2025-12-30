@@ -1,6 +1,7 @@
 # Resolvendo Códigos em Python com o Github Copilot
 
 Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
+Este projeto tem como objetivo utilizar o GitHub Copilot e o Codespace para auxiliar na solução de algoritmos em Python, explorando como essa ferramenta de inteligência artificial pode acelerar o desenvolvimento, sugerir códigos eficientes e melhorar a produtividade no processo de programação.
 
 ### Atenção ⚠️ 
 
